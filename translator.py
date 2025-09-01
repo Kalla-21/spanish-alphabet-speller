@@ -16,7 +16,7 @@ def english_to_spanish(word):
         'l': 'ele',
         'm': 'eme',
         'n': 'ene',
-        'ñ': 'enye,
+        'ñ': 'enye',
         'o': 'o',
         'p': 'pe',
         'q': 'cu',
