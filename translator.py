@@ -26,7 +26,7 @@ def english_to_spanish(word):
         'v': 'uve',
         'w': 'uve doble',
         'x': 'equis',
-        'y': 'i griega',
+        'y': 'ye',
         'z': 'zeta'
     }
 
